@@ -9,15 +9,12 @@
 <li>Backend: <a href="https://github.com/black6berry" target="_blank">Mike</a>;</li>
 
 <h2>Description</h2>
-```
-Distant future. Your team has found an order to hack the fully automated Wars Factory robot factory. You know that other teams will participate in addition to you (unlimited number). It is necessary to maintain leadership and leadership in the ability to develop complex interfaces, apply the skills of a Frontend developer and apply social engineering skills.
-```
-```
-You will be able to get into a secure perimeter and control the game by sending regular HTTP requests with JSON over the REST API given to you by the game developers. Use any programming languages, frameworks and tools: Unity, Unreal Engine, React, React.Native, Swift, pure PHP and Python, C, C++ or any other language (technology).
-```
-```
-Your task will be to find and destroy the main server of the factory, capture the servers and workstations of competitors, develop the technology of your drones and use them for further attacks (by installing your AI there at the time of the capture of the server). You can also move around the planets if you reach a certain level of development, so do not forget to train your bases and develop technologies by answering questions about information security and programming.
-```
-```
-But not everything will go smoothly, competitors will try to interrupt the development chain of your servers and predict your actions. In addition to black holes and wormholes, anomalous phenomena will make their own adjustments to your "peaceful" colonial work and the development of your systems. Do not forget to constantly improve the work of your algorithms and code, improve the work of your system. If you want to participate as a team, then you can do it without any problems - just create a single account and use your login details! We are pumping as developers, we write quickly and accurately. And remember, winning is important, not participating!
-```
+
+> Distant future. Your team has found an order to hack the fully automated Wars Factory robot factory. You know that other teams will participate in addition to you (unlimited number). It is necessary to maintain leadership and leadership in the ability to develop complex interfaces, apply the skills of a Frontend developer and apply social engineering skills.
+> 
+> You will be able to get into a secure perimeter and control the game by sending regular HTTP requests with JSON over the REST API given to you by the game developers. Use any programming languages, frameworks and tools: Unity, Unreal Engine, React, React.Native, Swift, pure PHP and Python, C, C++ or any other language (technology).
+>
+> Your task will be to find and destroy the main server of the factory, capture the servers and workstations of competitors, develop the technology of your drones and use them for further attacks (by installing your AI there at the time of the capture of the server). You can also move around the planets if you reach a certain level of development, so do not forget to train your bases and develop technologies by answering questions about information security and programming.
+>
+> But not everything will go smoothly, competitors will try to interrupt the development chain of your servers and predict your actions. In addition to black holes and wormholes, anomalous phenomena will make their own adjustments to your "peaceful" colonial work and the development of your systems. Do not forget to constantly improve the work of your algorithms and code, improve the work of your system. If you want to participate as a team, then you can do it without any problems - just create a single account and use your login details! We are pumping as developers, we write quickly and accurately. And remember, winning is important, not participating!
+>
